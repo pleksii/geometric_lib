@@ -41,6 +41,7 @@
 - **Пример вызова:** `perimeter(1, 2, 3) → 6`
   
 ###История изменений
+"""
 commit 287a9344828bebb788a0f9b9d0dabd6197222e33
 (HEAD →> 509010,
 509010/509010)
@@ -66,3 +67,4 @@ commit 8ba9aeb3cea847b63a91ac378a2a6db758682460
 Author: smartiqa <info@smartiqa.ru›
 Date: Thu Mar 4 14:54:08 2021 +0300
 L-03: Circle and square added
+"""
